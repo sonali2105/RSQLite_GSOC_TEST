@@ -1,6 +1,6 @@
 # 
 
-# rsqliteadmin_gsoctask
+# RSQLite_GSOC_TEST
 A database management system that interacts with database. It facilitates several  operation over the database it manages.
 
 A few operation which are as follows--
